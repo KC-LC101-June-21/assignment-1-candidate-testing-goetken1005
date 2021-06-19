@@ -8,7 +8,7 @@ let candidateName = ""
 
 let correctAnswer= "Sally Ride"
 let candidateAnswer = ""
-let question = "Who was the first American woman in space?"
+let question = "Who was the first American woman in space? "
 let questions = ["1. Who was the first American woman in space? ", 
  "\n2. True or false: 5 kilometer == 5000 meters? " ,
   "\n3. (5 + 3)/2 * 10 = ? ", 
